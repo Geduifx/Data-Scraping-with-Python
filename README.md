@@ -1,4 +1,5 @@
 # Data Scraping with Python
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Geduifx.Data-Scraping-with-Python)
 
 ## Data extraction methods
 
