@@ -1,5 +1,4 @@
 # Data Scraping with Python
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Geduifx.Data-Scraping-with-Python)
 
 ## Data extraction methods
 
@@ -29,3 +28,5 @@ For forth project I practised coding a solution for [pagination]. Used loop and 
 ## Future projects
 
 For next project it would be interesting to extract data by rendering JavaScript. Also, I would like to practice using headless browsers for browser fingerprinting, rotating proxies for IP-rate limiting, residential IPs instead of data center IPs, forge and rotate TLS fingerprints, CAPTCHA-solving tools and services.
+
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Geduifx.Data-Scraping-with-Python)
